@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+    <h1>Hi there, I'm Vladimir</h1>
+    <hr>
+    <h3>ML Engineer and Researcher</h3>
+</div>
 
-<!--
-**Bogachevv/Bogachevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div>
+    <h2 align="left">Skills</h2>
+    <ul>
+        <li>Programming languages: Python, C, C++</li>
+        <li>Technologies: Docker, SQL, git</li>
+        <li>ML frameworks: PyTorch, SkLearn, Transformers</li>
+    </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <h2>Stats</h2>
+    <table border-style="hidden">
+        <tr>
+            <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bogachevv&theme=apprentice"></td>
+            <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bogachevv&theme=apprentice"></td>
+        </tr>
+    </table>
+</div>
